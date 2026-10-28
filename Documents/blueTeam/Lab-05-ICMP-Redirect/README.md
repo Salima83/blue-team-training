@@ -23,13 +23,12 @@ Comprendre le fonctionnement des attaques de redirection ICMP (niveau 3) et anal
 ## 📸 Captures d'écran & Preuves d'exécution
 
 ### 1. Analyse des options de l'outil d'attaque
-![Options de l'attaquant](img/Captureattacker.jpg)[cite: 1]
+![Options de l'attaquant](img/Captureattacker.jpg)
 
 ### 2. Configuration et exécution de la commande d'attaque
-![Lancement de l'attaque](img/Captureattacker2.jpg)[cite: 2]
+![Lancement de l'attaque](img/Captureattacker2.jpg)
 
 ### 3. Manipulation de la victime et test de routage
-![Console Victime & Serveur](img/Captureserver.jpg)[cite: 3]
-
+![Console Victime & Serveur](img/Captureserver.jpg)
 ### 4. Analyse du trafic réseau sous Wireshark (Telnet)
-![Capture Wireshark Telnet](img/CaptureTELNETLab5.jpg)[cite: 4]
+![Capture Wireshark Telnet](img/CaptureTELNETLab5.jpg)
